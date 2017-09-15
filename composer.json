@@ -1,0 +1,17 @@
+{
+    "name": "drupal/mediaembedbutton",
+    "type": "drupal-module",
+    "description": "Adds the MediaEmbed Button plugin to CKEditor.",
+    "keywords": ["Drupal"],
+    "license": "GPL-2.0+",
+    "homepage": "http://drupal.org/project/mediaembedbutton",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "David Valdez (gnuget)",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+    }
+}
