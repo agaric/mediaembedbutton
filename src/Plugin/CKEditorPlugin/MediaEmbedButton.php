@@ -52,7 +52,7 @@ class MediaEmbedButton extends CKEditorPluginBase implements CKEditorPluginConfi
   public function getButtons() {
     $path = $this->getLibraryPath();
     return [
-      'mediaembed' => [
+      'MediaEmbed' => [
         'label' => $this->t('Media Embed'),
         'image' => $path . '/icons/mediaembed.png',
       ],
